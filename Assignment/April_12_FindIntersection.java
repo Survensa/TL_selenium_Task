@@ -1,4 +1,4 @@
-public class April_12_ArrayComparison {
+public class April_12_FindIntersection {
     public static void main(String[] args) {
         int[] array1 = {3, 2, 11, 4, 6, 7};
         int[] array2 = {1, 2, 8, 4, 9, 7};
